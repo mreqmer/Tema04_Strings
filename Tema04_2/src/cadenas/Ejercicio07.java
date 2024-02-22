@@ -5,7 +5,7 @@ public class Ejercicio07 {
 	public static void main(String[] args) {
 		// var
 		String frase = "Hola Hola Hola";
-		String palabraBusca = "a";
+		String palabraBusca = "Hola";
 		int veces;
 		
 		veces = numeroPalabra(frase, palabraBusca);

@@ -21,7 +21,7 @@ public class Ejercicio05 {
 		
 		String res = "";
 		
-		//recorre un String dsde el final
+		//recorre un String desde el final
 		for(int i = frase.length()-1; i>=0; i--) {
 			res += frase.charAt(i);
 			
